@@ -1,3 +1,3 @@
-# sysprog
+# (2020-2) System Programming, School of SW, Hallym Univ.
 
-System Programming, 2020-2
+Welcome!
