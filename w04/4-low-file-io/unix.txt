@@ -1,0 +1,6 @@
+total 24
+drwxrwxr-x 2 daniel daniel 4096 Sep 21 02:08 .
+drwxrwxr-x 6 daniel daniel 4096 Sep 21 02:08 ..
+-rwxrwxr-x 1 daniel daniel 8568 Sep 21 02:08 a.out
+-rw-rw-r-- 1 daniel daniel  490 Sep 21 02:08 main.c
+-rw-rw-r-- 1 daniel daniel    0 Sep 21 02:08 unix.txt
