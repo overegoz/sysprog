@@ -7,3 +7,5 @@
 [w04] Week 4 : file IO (low-level, high-level file IO)
 
 [w05] Week 5 : file, directory
+
+[w06] Week 6 : system info, process info (uname, time, pid, etc.)
