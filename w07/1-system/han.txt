@@ -1,0 +1,2 @@
+daniel    6342  6341  0 09:25 pts/0    00:00:00 sh -c ps -ef | grep han > han.txt
+daniel    6344  6342  0 09:25 pts/0    00:00:00 grep han

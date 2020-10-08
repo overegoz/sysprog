@@ -9,3 +9,5 @@
 [w05] Week 5 : file, directory
 
 [w06] Week 6 : system info, process info (uname, time, pid, etc.)
+
+[w07] Week 7 : Process (system, fork) and exec function family
